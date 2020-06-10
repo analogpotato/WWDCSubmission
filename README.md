@@ -11,6 +11,13 @@ This is my first Swift Playgrounds experience, let alone my first WWDC Student S
 - `Vision` - Tech for text recognition
 - `VisionKit` - Underlying technology used for the document scanner
 
+### How to use
+
+1. Download Swift Playgrounds on your iPad
+2. Download the .zip file in this repository
+3. Unzip the file and move it to your iPad
+4. Launch Swift Playgrounds and open the .playgrounds file in the zip
+
 If you have any questions please hit me up on Twitter @frankefoster or email frank.e.foster@icloud.com
 
 
