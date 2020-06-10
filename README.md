@@ -3,4 +3,12 @@
 
 ### Purpose
 
-This app is for me to process and test how to make apps with Playgrounds. It is a simple OCR app with image recognition and text discovery. I'm working on discovering how to process image sampling with an iPad.
+This is my first Swift Playgrounds experience, let alone my first WWDC Student Submission. I decided to create a document scanner with OCR and Speech technology in order to scan and speak back text of written documents. This is a simple app that can do just that!
+
+### Technology used
+
+- `AVFoundation` - Used for `AVSpeechSynthesis` and generating the voice
+- `Vision` - Tech for text recognition
+- `VisionKit` - Underlying technology used for the document scanner
+
+If you have any questions please hit me up on Twitter @frankefoster or email frank.e.foster@icloud.com
